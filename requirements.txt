@@ -1,0 +1,15 @@
+monai==1.2.0rc7
+nibabel==5.1.0
+tqdm==4.59.0
+einops==0.4.1
+tensorboardX==2.2
+scipy==1.9.1
+
+argparse==1.4.0
+numpy==1.24.1
+torch==2.0.1+cu117
+matplotlib==3.7.1
+pillow==8.4.0
+batchgenerators==0.25
+simpleitk==2.2.1
+medpy==0.4.0
